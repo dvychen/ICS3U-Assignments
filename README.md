@@ -5,4 +5,4 @@ Chronological Order of Assignments (earliest to latest work):
 3. Triangle Classification
 4. Basic Poker
 
-(Minesweeper final summative project is in its own repository.)
+(Minesweeper final summative project is in its own separate repository.)
